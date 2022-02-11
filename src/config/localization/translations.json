@@ -1500,5 +1500,9 @@
   "Max. Tickets per transaction:": "Max. Tickets per transaction:",
   "Please note that this is the old BTT token, which has been swapped to the new BTT tokens in the following ratio:": "Please note that this is the old BTT token, which has been swapped to the new BTT tokens in the following ratio:",
   "Trade the new BTT token here.": "Trade the new BTT token here.",
-  "For more details on the swap, please refer here.": "For more details on the swap, please refer here."
+  "For more details on the swap, please refer here.": "For more details on the swap, please refer here.",
+  "Important Information": "Important Information",
+  "Currently showing charts from Chainlink.": "Currently showing charts from Chainlink.",
+  "Prices chart is in relatively low fidelity.": "Prices chart is in relatively low fidelity.",
+  "Prices on charts is in relatively slower to respond.": "Prices on charts is in relatively slower to respond."
 }
